@@ -4,4 +4,4 @@
 
 # Video
 
-[![Watch the video](https://imgur.com/oyD7MVb)](https://youtu.be/dVdUlUH73Mw)
+[Watch the video](https://youtu.be/dVdUlUH73Mw)
