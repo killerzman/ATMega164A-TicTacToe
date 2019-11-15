@@ -1,1 +1,1 @@
-# ETTI-Project-2-Tic-Tac-Toe-ATMega164A
+# ETTI Project 2 - Tic-Tac-Toe ATMega164A
