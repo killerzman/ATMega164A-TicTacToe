@@ -1,4 +1,4 @@
-# ETTI Project 2 - Tic-Tac-Toe ATMega164A
+# ATMega164A Tic-Tac-Toe
 
 ATMega164A that was programmed to interact with a grid of LEDs and a few buttons to simulate a game of Tic-Tac-Toe ("X și 0" in romanian)
 
