@@ -8,4 +8,4 @@ The code implementation was a bit **rushed** and the documentation (the .docx fi
 
 # Video
 
-[Visual example of how the board/game works](https://youtu.be/dVdUlUH73Mw)
+[Video demo of how the board/game works](https://youtu.be/dVdUlUH73Mw)
